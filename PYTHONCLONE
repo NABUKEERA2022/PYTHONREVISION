@@ -4,10 +4,15 @@
 #print(input("Please Enter a DNA sequence: "))
 
 #####Variables and Values
-a=2+3
-print(a)
+#a=2+3
+#print(a)
 
-x=2
-y=5
-xy='Hey'
-print(x+y, xy)
+#x=2
+#y=5
+#xy='Hey'
+#print(x+y, xy)
+
+
+string1='World'
+string2='!'
+print('Hello' + " " + string1 + string2 + str(267.00))
